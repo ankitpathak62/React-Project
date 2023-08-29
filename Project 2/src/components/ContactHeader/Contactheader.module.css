@@ -1,0 +1,11 @@
+.contact-section h1{
+    font-size: 148px;
+    font-weight: 800;
+}
+
+
+.contact-section p{
+    font-size: 0px;
+    font-weight: 800;
+    /* gap: 100px; */
+}
